@@ -1,0 +1,52 @@
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.postcard{
+    box-shadow: -5px 5px 20px 1px #585858;
+    display: flex;
+    flex-direction: row;
+}
+.sinistra{ 
+    width: 50%;
+    height: 350px;
+}
+
+.destra{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.divisore{
+    width: 1px;
+    border-radius: 1px;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bollo{
+    text-align: right;
+}
+.text{
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+}  
+.text1{
+    padding-top: 28px;
+    border-bottom: 1px solid black;
+}
+.text2{
+    padding-top: 28px;
+    border-bottom: 1px solid black;
+}
+.text3{
+    padding-top: 28px;
+    border-bottom: 1px solid black;
+}
+.text4{
+    padding-top: 38px;  
+    border-bottom: 1px solid black;
+}
